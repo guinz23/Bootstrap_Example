@@ -106,3 +106,12 @@ body {
 
 
 #grid div{border-style: solid;}
+
+img{
+  width: 100%;
+  height: 210px;
+}
+#img{
+   width: 100%;
+  height: 100%;
+}

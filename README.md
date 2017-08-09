@@ -1,3 +1,5 @@
 # Demo de Bootstrap
 
-Versión de Bootstrap 3.3.7
+Versiï¿½n de Bootstrap 3.3.7
+
+PresentaciÃ³n: https://docs.google.com/presentation/d/1sBl2FPQvyYZc9BxNnApniW-A9dhQgrZmNsrofxjIQT8/edit?usp=sharing
